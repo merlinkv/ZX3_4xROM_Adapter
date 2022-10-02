@@ -24,8 +24,8 @@ Based on two W27C010 EEPROMs
 
 
 
-![Front](https://github.com/merlinkv/ZX3_4xROM_Adapter/blob/main/ZX3_4ROM_Front.jpg)
+![Front](https://github.com/merlinkv/ZX3_4xROM_Adapter/blob/main/ZX3_4xROM_Front.jpg)
 
-![Back](https://github.com/merlinkv/ZX3_4xROM_Adapter/blob/main/ZX3_4ROM_Back.jpg)
+![Back](https://github.com/merlinkv/ZX3_4xROM_Adapter/blob/main/ZX3_4xROM_Back.jpg)
 
 
